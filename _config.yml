@@ -16,17 +16,21 @@
 title: Pedro Silva
 email: psf@pedrosilva.org
 description: > # this means to ignore newlines until "baseurl:"
-  probando
+  ego
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://goretoxo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: goretoxo
 github_username:  goretoxo
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+#theme: minima
+#gems:
+#  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+#collections:
+#  - people
+#  - works
+#  - about
