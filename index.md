@@ -5,35 +5,26 @@ abstract: ...nine quinquennial plans without planning, and counting
 temas:
  - Permacultura
  - Post-peakoil
- - Organizacion de huertos escolares
- - Construccion de domos geodesicos
+ - Organizaci&oacute;n de huertos escolares
+ - Construcci&oacute;n de domos geodesicos
  - Openstack
- - puppet, chef & ansible ( vagrant, cfengine) otto, terraform
- - Debian & RedHat
- - Openvswitch
- - Hacklabs de tercera generacion
+ - Puppet, Chef & Ansible ( vagrant, cfengine) otto, terraform
+ - Debian & RedHat 
+ - OpenvSwitch
+ - Hacklabs de tercera generaci&oacute;n
  - Os gaiteiros do Lerez arriba
- - Dixitación pechada da gaita galega
+ - Dixitaci&oacute;n pechada na Gaita Galega
  - Diasporas, identidades distribuidas
- - Zanfona galega y su repertorio
+ - Zanfona galega 
  - Irish flute
  - OpenSource politics
- - blogaliza
+ - Blogaliza
  - Privacidad, control e internet ubicua
- - Procesos colectivos, resolución de problemas
- - T.A.Z.s, fiesta y construccion de identidad
- - Iconografía
- - Debate histórico, nacións e marketing
+ - Procesos colectivos, resoluci&oacute;n de problemas
+ - T.A.Z.s, fiesta y construcci&oacute;n de identidad
+ - Iconograf&iacute;a
+ - Debate hist&oacute;rico, naci&oacute;ns e marketing
  - Blogues no tempo da rede social
- - Ecoxardiñeiría
- - música en vivo (gaita, zanfona, flauta)
- - formacion “informatica/hacking”
- - formacion “permacultura/huerto”
- - formacion “musica”
- - dome building
- - problemas e as súas solucións
- - internet ubicua
- - ciberactivismo, e T.A.Z.s
- - containers navais reutilizados
-
+ - Ecoxardi&ntilde;eir&iacute;a
+ - Reused Naval Containers
 ---
