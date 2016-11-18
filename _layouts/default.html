@@ -4,13 +4,12 @@
 <html>
   <head>
     <link href="https://fonts.googleapis.com/css?family=Fondamento|Nothing+You+Could+Do|Tangerine" rel="stylesheet"> 
-    <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
     <link href="style.css" type="text/css" rel="stylesheet">
     <title>{{ page.title }}</title>
    <style>
       body {
-/*      font-family: 'Fondamento', cursive; */
-        font-family: 'Tangerine', serif;
+      font-family: 'Fondamento', cursive; 
+/*        font-family: 'Tangerine', serif; */
 /*      font-family: 'Fondamento', cursive; */
         font-size: 24px;
       }
@@ -21,13 +20,13 @@
        <h1>{{ page.title }}</h1>
        <h2>{{ page.abstract }}</h2>
 
-<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
+<ul>
  {% for cada in page.temas %}
-  <div class="grid-item">
+  <li class="grid-item">
        {{ cada }}
-  </div>
+  </li>
  {% endfor %}
-</div>
+</ul>
  
   </body>
 </html>
