@@ -19,13 +19,12 @@ temas:
 
  - OpenSource politics
  - Hacklabs, FabLabs, Hackerspaces, Makerspaces
- - T.A.Z.s: party, nomadism & identity
- - Blogaliza, blogs in Transition Times
+ - TAZ as party, nomadism & identity
+ - Blogaliza, blogs in transition times
  - Low cost personal branding
 
- - Os Gaiteiros do Lerez 
- - Dixitaci&oacute;n pechada na gaita galega
- - Zanfona galega 
+ - Closed fingering galician pipes
+ - Hurdy Gurdy, Santalices way
  - Irish flute, Sligo Style
 
 ---
