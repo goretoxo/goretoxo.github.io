@@ -21,10 +21,9 @@ temas:
  - Hacklabs, FabLabs, Hackerspaces, Makerspaces
  - TAZ as party, nomadism & identity
  - Blogaliza, blogs in transition times
- - Low cost personal branding
 
  - Closed fingering galician pipes
- - Hurdy Gurdy, Santalices way
+ - Zanfona, Santalices way
  - Irish flute, Sligo Style
 
 ---
