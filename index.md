@@ -3,27 +3,24 @@ layout: default
 title: Pedro Silva
 abstract: ...nine quinquennial plans without planning, and counting
 temas:
- - Permaculture
- - Post-peakoil
- - EcoGardening in the school
- - Arundo donax adobe dome shelters
- - Reused naval containers
+
+
+ - Permaculture (earth care, people care, fair share)
+ - Post-peakoil (what to do when apocalypse becomes mainstream)
+ - EcoGardening in the school (extended education)
+ - Arundo donax domes et adobe bricks
+ - Reused naval containers (recycle home)
  - Water harvest
-
+ - Ansible and beyond
  - Openstack
- - Puppet & Ansible
- - CloudFormation & Heat
- - Debian & RedHat 
+ - Debian & RedHat (& Ubuntu & CentOS)
  - OpenvSwitch
- - AWS Craftmanship & automation
-
+ - Cloud Craftmanship & automation
  - OpenSource politics
- - Hacklabs, FabLabs, Hackerspaces, Makerspaces
+ - Hacklabs, FabLabs, Hackerspaces, Makerspaces (by doing)
  - TAZ as party, nomadism & identity
- - Blogaliza, blogs in transition times
-
- - Closed fingering galician pipes
+ - closed fingering galician piping with air and electrons
  - Zanfona, Santalices way
- - Irish flute, Sligo Style
+ - Irish flute
 
 ---
