@@ -12,9 +12,7 @@ temas:
  - Reused naval containers (recycle home)
  - Water harvest
  - Ansible and beyond
- - Openstack
  - Debian & RedHat (& Ubuntu & CentOS)
- - OpenvSwitch
  - Cloud Craftmanship & automation
  - OpenSource politics
  - Hacklabs, FabLabs, Hackerspaces, Makerspaces (by doing)
