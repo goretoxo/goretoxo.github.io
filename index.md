@@ -1,24 +1,25 @@
 ---
 layout: default
 title: Pedro Silva
-abstract: ...nine quinquennial plans without planning, and counting
+abstract: ...ten quinquennial plans without planning, and counting
 temas:
 
 
+ - Cloud Craftmanship (& automation)
  - Permaculture (earth care, people care, fair share)
+ - Debian (& RedHat & Ubuntu & CentOS)
  - Post-peakoil (what to do when apocalypse becomes mainstream)
+ - cfgmgmt (ansible and terrafom and beyond)
+ - toque pechado (closed fingering galician piping with air and electrons)
  - EcoGardening in the school (extended education)
- - Arundo donax domes et adobe bricks
- - Reused naval containers (recycle home)
- - Water harvest
- - Ansible and beyond
- - Debian & RedHat (& Ubuntu & CentOS)
- - Cloud Craftmanship & automation
- - OpenSource politics
+ - Zanfona (from Santalices to coups d'etat)
+ - OpenSource politics 
+ - Arundo donax domes (& adobe bricks)
  - Hacklabs, FabLabs, Hackerspaces, Makerspaces (by doing)
- - TAZ as party, nomadism & identity
- - closed fingering galician piping with air and electrons
- - Zanfona, Santalices way
- - Irish flute
+ - Reused naval containers (recycle home)
+ - Water harvest 
+ - Irish flute (still learning how to breath)
+ - TAZ (as party, nomadism & identity)
+ - From nomadic hordes to farming settlers (in the search for a place to see growth)
 
 ---
